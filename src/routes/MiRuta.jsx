@@ -24,6 +24,7 @@ const MiRuta = () => {
             <button onClick={handleLogout}>salir</button>
         </div>
         <h1>Mi Ruta</h1>
+        <p>probando mas cosas</p>
     </div>
   )
 }
